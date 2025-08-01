@@ -1,5 +1,3 @@
-# 👨‍💻 Contributor Profile – Celer Network
-
 Hi, I'm Afonso Souza!
 
 ## 🔍 What I Do
